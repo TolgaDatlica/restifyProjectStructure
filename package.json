@@ -1,0 +1,18 @@
+{
+  "name": "restifyfolderstructure",
+  "version": "0.1.0",
+  "description": "örnek restify dizin yapısı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tolga Datkica",
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "^3.5.5",
+    "restify": "^7.2.1",
+    "restify-errors": "^6.1.1",
+    "restify-jwt-community": "^1.0.7",
+    "serve-static-restify": "^2.1.0"
+  }
+}
